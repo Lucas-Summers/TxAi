@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "Ethereum Mainnet",
+    "rpc": "https://eth-mainnet.public.blastapi.io",
+    "platform_slug": "ethereum",
+    "wrapped_token_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token_list_url": "https://tokens.coingecko.com/uniswap/all.json"
+  },
+  "10": {
+    "name": "OP Mainnet",
+    "rpc": "https://mainnet.optimism.io",
+    "platform_slug": "optimistic-ethereum", 
+    "wrapped_token_address": "0x4200000000000000000000000000000000000006",
+    "token_list_url": "https://tokens.coingecko.com/optimistic-ethereum/all.json"
+  },
+  "56": {
+    "name": "Binance Smart Chain",
+    "rpc": "https://bsc-dataseed.binance.org",
+    "platform_slug": "binance-smart-chain",
+    "wrapped_token_address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "token_list_url": "https://tokens.coingecko.com/binance-smart-chain/all.json"
+  },
+  "137": {
+    "name": "Polygon Mainnet",
+    "rpc": "https://polygon-rpc.com",
+    "platform_slug": "polygon-pos",
+    "wrapped_token_address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "token_list_url": "https://tokens.coingecko.com/polygon-pos/all.json"
+  },
+  "324": {
+    "name": "zkSync Era Mainnet",
+    "rpc": "https://mainnet.era.zksync.io",
+    "platform_slug": "zksync",
+    "wrapped_token_address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+    "token_list_url": "https://tokens.coingecko.com/zksync/all.json"
+  },
+  "42161": {
+    "name": "Arbitrum One",
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "platform_slug": "arbitrum-one",
+    "wrapped_token_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token_list_url": "https://tokens.coingecko.com/arbitrum-one/all.json"
+  },
+  "43114": {
+    "name": "Avalanche Network C-Chain",
+    "rpc": "https://api.avax.network/ext/bc/C/rpc",
+    "platform_slug": "avalanche",
+    "wrapped_token_address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "token_list_url": "https://tokens.coingecko.com/avalanche/all.json"
+  },
+  "8453": {
+    "name": "Base Mainnet",
+    "rpc": "https://mainnet.base.org",
+    "platform_slug": "base",
+    "wrapped_token_address": "0x4200000000000000000000000000000000000006",
+    "token_list_url": "https://tokens.coingecko.com/base/all.json"
+  }
+}
